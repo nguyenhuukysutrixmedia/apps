@@ -1,0 +1,17 @@
+{
+    "version": 1,
+    "apps": [
+        {
+            "name": "New Dot game",
+            "pkg": "culun.g.newdot",
+            "icon": "http://lh3.googleusercontent.com/FCsyi-6SK8cBEpkwctuSwcy6UN5fVB1Sv31rX5NcbymhzB9OCLUllT7YnmBK9SFNPLM=w300-rw",
+            "img": ""
+        },
+        {
+            "name": "App Lock",
+            "pkg": "nice.app.applock",
+            "icon": "",
+            "img": ""
+        }
+    ]
+}
