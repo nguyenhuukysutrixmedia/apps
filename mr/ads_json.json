@@ -1,17 +1,22 @@
 {
-    "version": 40,
+    "version": 2,
     "apps": [
         {
             "name": "New Dot game",
+            "des": "New Dot game",
             "pkg": "culun.g.newdot",
             "icon": "http://lh3.googleusercontent.com/FCsyi-6SK8cBEpkwctuSwcy6UN5fVB1Sv31rX5NcbymhzB9OCLUllT7YnmBK9SFNPLM=w300-rw",
-            "img": ""
+            "img": "",
+            "star": "4.8",
+            "isGame": true
         },
         {
             "name": "App Lock",
             "pkg": "nice.app.applock",
             "icon": "",
-            "img": ""
+            "img": "",
+            "star": "4.2",
+            "isGame": false
         }
     ]
 }
