@@ -13,7 +13,7 @@
         {
             "name": "Mirror no ads on screen",
             "des": "Use your phone / tablet as a mirror, with zoom, lighting control and much more!",
-            "pkg": "kynguyen.app.mirror",
+            "pkg": "kynguyen.app.mirror.debug",
             "icon": "http://lh3.googleusercontent.com/FCsyi-6SK8cBEpkwctuSwcy6UN5fVB1Sv31rX5NcbymhzB9OCLUllT7YnmBK9SFNPLM=w300-rw",
             "img": "",
             "star": "4.2",
