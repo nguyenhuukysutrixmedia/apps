@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "apps": [
         {
             "name": "New Dot game",
@@ -17,15 +17,6 @@
             "icon": "http://lh3.googleusercontent.com/FCsyi-6SK8cBEpkwctuSwcy6UN5fVB1Sv31rX5NcbymhzB9OCLUllT7YnmBK9SFNPLM=w300-rw",
             "img": "",
             "star": "4.2",
-            "isGame": false
-        },
-        {
-            "name": "Baby Gender predictor",
-            "des": "Bla bla",
-            "pkg": "culun.app.gender.chart",
-            "icon": "http:////lh3.googleusercontent.com/OksLZfJTl1DCAe4RFsAemn3YMSat65X5Owqfolv54IKBHhewfAbgi7DLa8XOQT0S6y4=w300-rw",
-            "img": "",
-            "star": "3.9",
             "isGame": false
         }
     ]
