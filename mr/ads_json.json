@@ -1,23 +1,5 @@
 {
-    "version": 1,
+    "version": 2,
     "apps": [
-        {
-            "name": "New Dot game",
-            "des": "The beautiful and addictive hit game Dots (game about Memory) is now available on Android phones and tablets!",
-            "pkg": "culun.g.newdot",
-            "icon": "https://lh3.googleusercontent.com/DY6A8c7Cl8HQ_f-nQAwf_L_trG1F6dTApEJa9TMLArHOWntmoU-_gqQEpdCd60we-w=w300-rw",
-            "img": "",
-            "star": "4.5",
-            "isGame": true
-        },
-        {
-            "name": "Mirror no ads on screen",
-            "des": "Use your phone / tablet as a mirror, with zoom, lighting control and much more!",
-            "pkg": "kynguyen.app.mirror",
-            "icon": "http://lh3.googleusercontent.com/FCsyi-6SK8cBEpkwctuSwcy6UN5fVB1Sv31rX5NcbymhzB9OCLUllT7YnmBK9SFNPLM=w300-rw",
-            "img": "",
-            "star": "4.2",
-            "isGame": false
-        }
     ]
 }
